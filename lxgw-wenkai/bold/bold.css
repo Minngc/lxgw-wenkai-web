@@ -20,7 +20,8 @@ sampleText:
 
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4h.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4h.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -53,7 +54,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4g.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4g.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -85,7 +87,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4f.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4f.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -118,7 +121,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4d.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4d.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -153,7 +157,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4e.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4e.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -185,7 +190,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4c.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4c.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -220,7 +226,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4b.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4b.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -255,7 +262,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4a.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4a.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -273,7 +281,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-49.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-49.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -282,7 +291,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-48.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-48.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -295,7 +305,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-47.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-47.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -324,7 +335,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-46.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-46.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -353,7 +365,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-45.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-45.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -382,7 +395,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-44.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-44.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -410,7 +424,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-43.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-43.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -437,7 +452,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-42.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-42.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -465,7 +481,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-40.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-40.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -494,7 +511,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-41.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-41.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -522,7 +540,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3z.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3z.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -550,7 +569,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3w.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3w.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -567,7 +587,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3x.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3x.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -588,7 +609,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3y.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3y.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -615,7 +637,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3v.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3v.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -626,7 +649,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3t.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3t.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -636,7 +660,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3u.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3u.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -644,7 +669,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3s.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3s.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -661,7 +687,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3r.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3r.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -676,7 +703,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3q.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3q.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -685,7 +713,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3p.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3p.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -701,7 +730,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3o.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3o.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -711,7 +741,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3n.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3n.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -720,7 +751,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3m.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3m.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -731,7 +763,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3k.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3k.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -747,7 +780,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3l.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3l.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -761,7 +795,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3j.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3j.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -775,7 +810,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3i.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3i.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -789,7 +825,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3g.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3g.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -809,7 +846,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3h.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3h.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -826,7 +864,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3f.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3f.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -841,7 +880,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3e.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3e.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -858,7 +898,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3d.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3d.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -869,7 +910,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3c.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3c.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -887,7 +929,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3b.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3b.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -900,7 +943,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3a.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3a.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -916,7 +960,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-38.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-38.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -933,7 +978,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-39.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-39.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -947,7 +993,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-37.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-37.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -963,7 +1010,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-36.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-36.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -983,7 +1031,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-34.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-34.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -999,7 +1048,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-35.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-35.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1011,7 +1061,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-33.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-33.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1027,7 +1078,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-32.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-32.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1040,7 +1092,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-31.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-31.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1054,7 +1107,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-30.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-30.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1069,7 +1123,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2z.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2z.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1088,7 +1143,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2y.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2y.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1112,7 +1168,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2w.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2w.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1125,7 +1182,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2x.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2x.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1138,7 +1196,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2v.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2v.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1154,7 +1213,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2u.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2u.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1174,7 +1234,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2t.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2t.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1191,7 +1252,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2s.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2s.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1210,7 +1272,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2r.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2r.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1229,7 +1292,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2q.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2q.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1247,7 +1311,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2p.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2p.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1261,7 +1326,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2o.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2o.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1283,7 +1349,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2n.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2n.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1300,7 +1367,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2m.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2m.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1312,7 +1380,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2l.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2l.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1331,7 +1400,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2k.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2k.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1345,7 +1415,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2j.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2j.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1360,7 +1431,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2i.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2i.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1378,7 +1450,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2g.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2g.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1394,7 +1467,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2h.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2h.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1409,7 +1483,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2f.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2f.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1426,7 +1501,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2e.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2e.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1449,7 +1525,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2d.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2d.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1468,7 +1545,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2c.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2c.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1487,7 +1565,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2b.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2b.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1503,7 +1582,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-29.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-29.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1520,7 +1600,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2a.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2a.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1542,7 +1623,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-28.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-28.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1567,7 +1649,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-27.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-27.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1593,7 +1676,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-26.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-26.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1621,7 +1705,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-25.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-25.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1638,7 +1723,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-22.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-22.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1649,7 +1735,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-24.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-24.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1657,7 +1744,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-21.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-21.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1665,7 +1753,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-23.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-23.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1675,7 +1764,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-20.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-20.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1689,7 +1779,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1z.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1z.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1700,7 +1791,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1y.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1y.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1713,7 +1805,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1x.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1x.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1726,7 +1819,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1w.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1w.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1736,7 +1830,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1t.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1t.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1763,7 +1858,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1s.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1s.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1792,7 +1888,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1v.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1v.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1804,7 +1901,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1u.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1u.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1816,7 +1914,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1r.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1r.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1843,7 +1942,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1q.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1q.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1871,7 +1971,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1p.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1p.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1899,7 +2000,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1o.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1o.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1928,7 +2030,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1n.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1n.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1956,7 +2059,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1m.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1m.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -1984,7 +2088,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1l.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1l.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2013,7 +2118,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1k.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1k.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2042,7 +2148,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1j.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1j.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2071,7 +2178,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1i.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1i.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2100,7 +2208,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1h.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1h.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2129,7 +2238,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1g.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1g.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2158,7 +2268,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1f.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1f.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2188,7 +2299,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1e.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1e.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2218,7 +2330,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1d.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1d.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2247,7 +2360,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1c.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1c.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2277,7 +2391,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1b.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1b.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2307,7 +2422,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1a.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1a.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2337,7 +2453,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-19.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-19.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2367,7 +2484,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-18.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-18.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2398,7 +2516,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-17.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-17.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2429,7 +2548,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-16.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-16.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2460,7 +2580,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-15.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-15.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2491,7 +2612,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-14.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-14.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2523,7 +2645,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-13.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-13.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2555,7 +2678,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-12.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-12.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2587,7 +2711,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-11.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-11.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2619,7 +2744,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-10.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-10.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2651,7 +2777,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-z.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-z.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2683,7 +2810,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-y.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-y.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2715,7 +2843,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-x.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-x.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2743,7 +2872,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-v.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-v.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2751,7 +2881,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-w.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-w.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2760,7 +2891,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-t.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-t.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2773,7 +2905,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-s.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-s.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2783,7 +2916,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-u.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-u.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2795,7 +2929,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-r.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-r.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2810,7 +2945,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-q.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-q.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2818,7 +2954,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-p.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-p.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2826,7 +2963,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-o.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-o.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2839,7 +2977,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-n.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-n.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2849,7 +2988,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-m.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-m.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2857,7 +2997,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-l.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-l.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2870,7 +3011,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-k.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-k.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2878,7 +3020,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-j.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-j.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2889,7 +3032,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-i.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-i.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2902,7 +3046,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-h.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-h.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2910,7 +3055,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-g.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-g.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2921,7 +3067,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-f.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-f.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2931,7 +3078,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-2.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-2.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2939,7 +3087,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-b.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-b.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2947,7 +3096,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-6.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-6.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2955,7 +3105,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-c.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-c.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2963,7 +3114,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-d.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-d.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2975,7 +3127,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-5.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-5.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2983,7 +3136,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-9.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-9.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -2992,7 +3146,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-7.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-7.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3005,7 +3160,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-e.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-e.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3018,7 +3174,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-a.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-a.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3026,7 +3183,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-0.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-0.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3045,7 +3203,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-4.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-4.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3057,7 +3216,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-1.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-1.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3065,7 +3225,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-3.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-3.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -3073,7 +3234,8 @@ sampleText:
 }
 @font-face {
   font-family: "LXGW WenKai";
-  src: local("LXGW WenKai"), url("./lxgw-wenkai-bold-8.woff2") format("woff2");
+  src: local("LXGW WenKai Bold"),
+    url("./lxgw-wenkai-bold-8.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
